@@ -1,2 +1,2 @@
 # MakeToast-Android
-Sample android library for creaing toast using library
+Sample android library for creaing toast
