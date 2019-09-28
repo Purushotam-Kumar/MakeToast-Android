@@ -5,11 +5,11 @@ import android.widget.Toast;
 
 public class CreateToast {
 
-    public void popShortToast(Context context, String toastMessage){
+    public static void popShortToast(Context context, String toastMessage){
         Toast.makeText(context,toastMessage,Toast.LENGTH_SHORT).show();
     }
 
-    public void popLongToast(Context context, String toastMessage){
+    public static void popLongToast(Context context, String toastMessage){
         Toast.makeText(context,toastMessage,Toast.LENGTH_SHORT).show();
     }
 
